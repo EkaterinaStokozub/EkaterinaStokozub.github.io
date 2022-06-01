@@ -1,0 +1,81 @@
+.zelenka {
+    color: rgb(17, 204, 17);
+}
+
+.cost {
+    background-color: rgba(26, 211, 211, 0.4);
+    text-align: center;
+}
+
+.right2 {
+    width: 70%;
+}
+
+.to_main {
+    border: 0px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgba(148, 96, 29, 0.4);
+    text-align: center;
+    vertical-align: middle;
+}
+
+.to_main:hover {
+    background-color: rgba(153, 112, 22, 0.299);
+}
+
+.picture {
+    display: inline-block;
+}
+
+.picture img {
+    border: 5px solid #8a611578;
+}
+
+.other {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.last {
+    float: right;
+    vertical-align: middle;
+    border-radius: 5px;
+    width: 18%;
+}
+
+ button {
+    text-align: center;
+    vertical-align: middle;
+ }
+
+ .description {
+     border-spacing: 30px 3px;
+ }
+
+ .author {
+     text-align: center;
+     font-weight: normal;
+     font-size: 18px;
+     background-color: #eaeaea;
+ }
+
+ .niz {
+     width: 70%;
+     color: #484343;
+     font-size: 16px;
+     line-height: 24px;
+     text-align: left;
+ }
+
+ body {
+     background-color: #f8f8f8;
+ }
+
+ .opisanie {
+     font-size: 18px;
+     font-weight: normal;
+     background-color: #eaeaea;
+ } 
+
